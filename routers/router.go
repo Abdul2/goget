@@ -1,8 +1,9 @@
 package routers
 
 import (
-	"s3/controllers"
+	//"s3/controllers"
 
+	"github.com/Abdul2/goget/controllers"
 	"github.com/astaxie/beego"
 )
 
